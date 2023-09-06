@@ -6,5 +6,4 @@ public class Main {
         float result = convert(5);
         System.out.println(result);
     }
-    public static void megre(){}
 }
